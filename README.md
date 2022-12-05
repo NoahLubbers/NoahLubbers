@@ -8,13 +8,12 @@
 
 - 🌱 I’m currently learning [discord.js](https://discord.js.org).
 
-- 👯 I’m looking to collaborate on anything intresting, hit me up at my [email](noahlubbers123@gmail.com)
+- 👯 I’m looking to collaborate on anything intresting, hit me up at my [email(noahlubbers123@gmail.com](Gmail.com)
 
 - 🤝 I’m looking for help with [my website](https://github.com/NoahLubbers/NoahLubbers.github.i/). Make a pull if you can!
 
 - 👨‍💻 All of my projects are available at [Bofa-Deez-Nutz.github.io](https://BOFA-DEEZ-NUTZ.github.io/) and my [repos tab](https://github.com/NoahLubbers?tab=repositories).
 
-- ⚡ Fun fact [hooooooooo](https://hooooooooo.com/)!
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
