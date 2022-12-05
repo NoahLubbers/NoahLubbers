@@ -1,11 +1,11 @@
 <img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO 3kh0.github.io FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+Echo!;HTML+Coder;JavaScript+Game+maker;Talk+to+me+on+my+discord!">
-<h1 align="center">Hi 👋, I'm 3kh0</h1>
+<h1 align="center">Hi 👋, I'm NoahLubbers</h1>
 <h3 align="center">A nice person who can code buggy projects.</h3>
 <h2>Programmer Humor</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h2>About me</h2>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=3kh0&label=Profile Visitors&color=001eff&style=flat" alt="3kh0" />
+  <img src="https://komarev.com/ghpvc/?username=NoahLubbers&label=Profile Visitors&color=001eff&style=flat" alt="NoahLubbers" />
   <img alt="" src="https://img.shields.io/badge/OS-Arch%20Linux-red/?logo=archlinux&color=1793d1">
   <img alt="" src="https://img.shields.io/badge/Discord-3kh0__%231791-red/?logo=discord&color=7289DA">
   <img alt="" src="https://img.shields.io/badge/Uses-Firefox-red/?logo=firefoxbrowser&color=ff9500">
