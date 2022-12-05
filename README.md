@@ -5,9 +5,7 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h2>About me</h2>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=NoahLubbers&label=Profile Visitors&color=001eff&style=flat" alt="NoahLubbers" />
-  
-       </p>
+ 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3kh0&no-frame=trueno-bg=true" alt="3kh0" /></a> </p>
 
 - 🔭 I’m currently working on [my main website](https://github.com/3kh0/3kh0.github.io) and whatever else!
